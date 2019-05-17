@@ -8,12 +8,16 @@ Group Member: Junlin Wang, Ziteng Pang, Yuan Fu, Yitan Ze
   |------- sudoku_solver.py: main solver
 
   |------- requirements.txt
+  
   |------- README.md
 
   |------- LICENSE
-
+  
   |------- .gitignore
+  
+  |------- test.ipynb: testing result on 4 datasets
+  
   |------- writeup.pdf
-  |------- misc.
-                contains some testing files during developing
-  |------- ...
+  
+  |------- misc.: contains some testing files during developing
+
