@@ -5,7 +5,7 @@ Group Member: Junlin Wang, Ziteng Pang, Yuan Fu, Yitan Ze
 
 ------- Sudoku
 
-  |------- sudoku_solver.py: contains the main solver and several other helper functions. Import all.
+  |------- sudoku_solver.py: contains the main solver and several other helper functions.
 
   |------- requirements.txt
   
