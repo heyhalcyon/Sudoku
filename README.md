@@ -4,13 +4,16 @@ Group Member: Junlin Wang, Ziteng Pang, Yuan Fu, Yitan Ze
 
 
 ------- Sudoku
-  |------- sudoku_solver.py
-                main solver
+
+  |------- sudoku_solver.py: main solver
+
   |------- requirements.txt
   |------- README.md
+
   |------- LICENSE
+
   |------- .gitignore
   |------- writeup.pdf
-  |------- misc. 
+  |------- misc.
                 contains some testing files during developing
   |------- ...
