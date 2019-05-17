@@ -19,5 +19,5 @@ Group Member: Junlin Wang, Ziteng Pang, Yuan Fu, Yitan Ze
   
   |------- writeup.pdf
   
-  |------- misc.: contains some testing files during developing
+  |------- misc.: contains some testing files during developing.
 
