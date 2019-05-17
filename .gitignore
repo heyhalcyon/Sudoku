@@ -4,5 +4,11 @@ input/large2.csv
 input/small1.csv
 input/small2.csv
 Yuan LP Solver for Sudoku (1).ipynb
+<<<<<<< HEAD
 write_up.pages
 .DS_Store
+=======
+>>>>>>> parent of b24374d... add write_up, test, LICENSE
+.ipynb_checkpoints/Test-checkpoint.ipynb
+.DS_Store
+__pycache__/sudoku_solver.cpython-37.pyc
